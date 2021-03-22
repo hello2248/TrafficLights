@@ -1,0 +1,14 @@
+name: TrafficLights
+version: '1.0'
+main: TrafficLights
+authors: [Culup, hello2248]
+depend: [Vault]
+permissions:
+  trafficlights.configure:
+    description: Allows the configuring of TrafficLights
+    default: op
+commands:
+  trafficlights:
+    aliases: [tl]
+    usage: /<command>
+    description: Provide the player with the configuring item for TrafficLights

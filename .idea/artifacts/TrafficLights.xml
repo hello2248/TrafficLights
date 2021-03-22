@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TrafficLights">
+    <output-path>$USER_HOME$/Desktop/1.12 Server/plugins</output-path>
+    <root id="archive" name="TrafficLights.jar">
+      <element id="module-output" name="Traffic Lights" />
+    </root>
+  </artifact>
+</component>
